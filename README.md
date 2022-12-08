@@ -27,7 +27,11 @@ The aim of the project is to address, compare and analyse the variation in the n
  # Tools and Technologies
  
  > Primary Storage System: Hadoop Distributed File System
+ 
  > Cloud Platform: Google Cloud Cluster
+ 
  > Distributed processing System: Apache spark
+ 
  > ETL Tools: Hive
+ 
  > Visualization:Jupyter notebook, Google Colab
