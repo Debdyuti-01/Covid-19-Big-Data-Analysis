@@ -15,10 +15,13 @@ The aim of the project is to address, compare and analyse the variation in the n
 
 # Functionalities
 
- > To capture the trend in the data collected from multiple datasets based on the increasing number of cases
- > To determine if imposing lockdown was a right decision
- > To compare countries which imposed lockdown and analyse the variation in the number of Covid-19 cases
- > Migration analysis to know the population and cases before and after lockdown
+ > 1. To capture the trend in the data collected from multiple datasets based on the increasing number of cases
+ 
+ > 2. To determine if imposing lockdown was a right decision
+ 
+ > 3. To compare countries which imposed lockdown and analyse the variation in the number of Covid-19 cases
+ 
+ > 4. Migration analysis to know the population and cases before and after lockdown
 
  
  # Tools and Technologies
