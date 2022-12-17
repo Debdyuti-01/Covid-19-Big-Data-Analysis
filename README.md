@@ -13,6 +13,10 @@ Guided by Professor: Tseng-Ching Shen
 
 The aim of the project is to address, compare and analyse the variation in the number of COVID-19 cases in countries which imposed complete lockdown with restriction rules and observe the following trend in the data based on the increasing number of cases:
 
+# To run the script
+
+ > spark-submit CovidDataAnalysis.py
+
 # Functionalities
 
  > 1. To capture the trend in the data collected from multiple datasets based on the increasing number of cases
