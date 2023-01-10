@@ -1,6 +1,6 @@
 # Covid-19-Big-Data-Analysis
 
-CCourse: CPSC 531 - Advance Database Management System 
+Course: CPSC 531 - Advance Database Management System 
 
 Guided by Professor: Tseng-Ching Shen
 
