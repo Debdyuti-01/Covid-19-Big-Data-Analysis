@@ -7,7 +7,6 @@ Guided by Professor: Tseng-Ching Shen
 # Project Members:
 
 1. Debdyuti Das
-2. Shriya Bannikop
 
 # Project Description
 
